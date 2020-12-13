@@ -1,0 +1,1 @@
+YOUR TOKEN HERE (REFER TO HERE ON HOW TO MAKE A DISCORD BOT --> https://medium.com/disbots/how-to-make-a-discord-bot-with-python-e066b03bfd9
