@@ -1,10 +1,14 @@
 # Twitch Death Counter
 An easy way to keep track of deaths in a game in twitch chat
 
+### New Dicord Integration Example:
+
+![Discord Example](discord_example.gif)
+
 ## Requirements
 - python 3+
 - selenium webdriver in same directory
-- packages: selenium
+- packages: selenium, discord (pip install selenium, pip install discord)
 
 ## Setup
 1. setup chromedriver "Use custom profile (also called user data directory)" see how [here](https://www.edgewordstraining.co.uk/2017/10/13/chromedriver-options-starting-chrome-webdriver/)
